@@ -1,0 +1,123 @@
+!SESSION 2015-07-12 09:34:21.116 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_20
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.adtproduct
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.adtproduct
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2015-07-12 09:47:17.439
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2015-07-12 09:47:17.439
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.439
+!MESSAGE Software being installed: BPMN2 Project Feature 1.0.0.201406050616 (org.eclipse.bpmn2.feature.feature.group 1.0.0.201406050616)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.439
+!MESSAGE Software being installed: BPMN2 Metamodel 1.0.0.201412192138 (org.eclipse.bpmn2.feature.group 1.0.0.201412192138)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-12 09:47:17.439
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.439
+!MESSAGE BPMN2 Edit Support 1.0.0.201406050616 (org.eclipse.bpmn2.edit 1.0.0.201406050616)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.439
+!MESSAGE BPMN2 Edit Support 1.0.0.201412192138 (org.eclipse.bpmn2.edit 1.0.0.201412192138)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-12 09:47:17.439
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.439
+!MESSAGE From: BPMN2 Project Feature 1.0.0.201406050616 (org.eclipse.bpmn2.feature.feature.group 1.0.0.201406050616)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.439
+!MESSAGE To: org.eclipse.bpmn2.edit [1.0.0.201406050616]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-12 09:47:17.439
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.439
+!MESSAGE From: BPMN2 Metamodel 1.0.0.201412192138 (org.eclipse.bpmn2.feature.group 1.0.0.201412192138)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.439
+!MESSAGE To: org.eclipse.bpmn2.edit [1.0.0.201412192138]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2015-07-12 09:47:17.463
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2015-07-12 09:47:17.463
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.463
+!MESSAGE Software being installed: BPMN2 Project Feature 1.0.0.201406050616 (org.eclipse.bpmn2.feature.feature.group 1.0.0.201406050616)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.463
+!MESSAGE Software being installed: BPMN2 Metamodel 1.0.0.201412192138 (org.eclipse.bpmn2.feature.group 1.0.0.201412192138)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-12 09:47:17.463
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.463
+!MESSAGE BPMN2 Edit Support 1.0.0.201406050616 (org.eclipse.bpmn2.edit 1.0.0.201406050616)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.463
+!MESSAGE BPMN2 Edit Support 1.0.0.201412192138 (org.eclipse.bpmn2.edit 1.0.0.201412192138)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-12 09:47:17.463
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.463
+!MESSAGE From: BPMN2 Project Feature 1.0.0.201406050616 (org.eclipse.bpmn2.feature.feature.group 1.0.0.201406050616)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.463
+!MESSAGE To: org.eclipse.bpmn2.edit [1.0.0.201406050616]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2015-07-12 09:47:17.463
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.464
+!MESSAGE From: BPMN2 Metamodel 1.0.0.201412192138 (org.eclipse.bpmn2.feature.group 1.0.0.201412192138)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2015-07-12 09:47:17.464
+!MESSAGE To: org.eclipse.bpmn2.edit [1.0.0.201412192138]
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2015-07-12 10:02:27.337
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\croesus\AppData\Local\Temp\DefaultProfile_29d04b7e2ba0_c0a82ae6f74c
+
+!ENTRY org.eclipse.ui 2 2 2015-07-12 10:02:43.187
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2015-07-12 10:02:51.922 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_20
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.adtproduct
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.adtproduct
+
+!ENTRY org.eclipse.update.configurator 4 0 2015-07-12 10:03:34.252
+!MESSAGE Unable to find feature.xml in directory: C:\Dev\adt\adt-bundle-windows-x86_64-20140702\eclipse\features\org.eclipse.jgit.orbit_2.2.0.201212191850-r
+
+!ENTRY org.eclipse.jface 2 0 2015-07-12 10:04:09.512
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-07-12 10:04:09.512
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@26398f67,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@64ff0eaa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-07-12 10:04:09.512
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@401b7226,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1b62ad1e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-12 10:04:36.820
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\croesus'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
