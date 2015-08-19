@@ -1,0 +1,5 @@
+== Sinatra/1.4.5 has taken the stage on 4567 for development with backup from Thin
+127.0.0.1 - - [19/Aug/2015 03:29:38] "GET / HTTP/1.1" 200 13 0.0113
+127.0.0.1 - - [19/Aug/2015 03:31:10] "GET // HTTP/1.1" 200 13 0.0004
+127.0.0.1 - - [19/Aug/2015 03:31:39] "GET // HTTP/1.1" 200 13 0.0004
+127.0.0.1 - - [19/Aug/2015 03:31:44] "GET // HTTP/1.1" 200 13 0.0004
