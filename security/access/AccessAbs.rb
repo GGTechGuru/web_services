@@ -1,0 +1,3 @@
+
+class AccessAbs
+end # AccessAbs
